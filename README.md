@@ -1,6 +1,6 @@
 # Employee Docs
 
-Документация к внутреннему сервису **Employee**.
+Документация к внутреннему сервису Employee.
 
 ## Что это за сервис
 
@@ -25,6 +25,6 @@ Employee — это WebAPI-сервис для работы с данными с
 
 Вся документация лежит в папке [_docs_](/docs/). Вот её разделы:
 
-- [Схема работы сервиса](/docs/service-overview.md)
-- [Сущности](/docs/entities.md)
-- [Методы API](/docs/api-methods.md)
+- [схема работы сервиса](/docs/service-overview.md);
+- [сущности](/docs/entities.md);
+- [методы API](/docs/api-methods.md).
